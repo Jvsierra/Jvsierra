@@ -51,7 +51,7 @@ Atuo desde a descoberta de solução até a implantação de modelos em produç�
 
 Você encontrará aqui projetos relacionados a:
 
-- [Previsão de Demanda](https://github.com/Jvsierra/demand_forecasting)
+- [Previsão de Demanda](https://github.com/Jvsierra/bike_sharing_demand)
 - [Predição de Churn](https://github.com/Jvsierra/churn_prediction)
 
 ## 📫 Contato
@@ -112,7 +112,7 @@ My work covers the entire data lifecycle, from solution discovery to model deplo
 
 ## 📌 Featured Projects
 
-- [Demand Forecast](https://github.com/Jvsierra/demand_forecasting)
+- [Demand Forecast](https://github.com/Jvsierra/bike_sharing_demand)
 - [Churn Prediction](https://github.com/Jvsierra/churn_prediction)
 
 ## 📫 Contact
