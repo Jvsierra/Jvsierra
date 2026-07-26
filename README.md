@@ -112,8 +112,8 @@ My work covers the entire data lifecycle, from solution discovery to model deplo
 
 ## 📌 Featured Projects
 
-- [Previsão de Demanda](https://github.com/Jvsierra/demand_forecasting)
-- [Predição de Churn](https://github.com/Jvsierra/churn_prediction)
+- [Demand Forecast](https://github.com/Jvsierra/demand_forecasting)
+- [Churn Prediction](https://github.com/Jvsierra/churn_prediction)
 
 ## 📫 Contact
 
