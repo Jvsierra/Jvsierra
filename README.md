@@ -56,7 +56,7 @@ Você encontrará aqui projetos relacionados a:
 
 ## 📫 Contato
 
-- LinkedIn: https://linkedin.com/in/joao-victor-sierra
+- LinkedIn: https://linkedin.com/in/joaovictorsierra
 - E-mail: jvpsierra@gmail.com
 
 ---
