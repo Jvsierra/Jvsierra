@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o João Sierra
+# 👋 Olá! Eu sou o João Victor Sierra
 
 🇧🇷 **Português**
 
@@ -61,7 +61,7 @@ Você encontrará aqui projetos relacionados a:
 
 ---
 
-# 👋 Hi, I'm João Sierra
+# 👋 Hi, I'm João Victor Sierra
 
 🇺🇸 **English**
 
