@@ -53,6 +53,7 @@ Você encontrará aqui projetos relacionados a:
 
 - [Previsão de Demanda](https://github.com/Jvsierra/bike_sharing_demand)
 - [Predição de Churn](https://github.com/Jvsierra/churn_prediction)
+- [Agente de Classificação de E-Mail](https://github.com/Jvsierra/email-classification-agent)
 
 ## 📫 Contato
 
@@ -114,6 +115,7 @@ My work covers the entire data lifecycle, from solution discovery to model deplo
 
 - [Demand Forecast](https://github.com/Jvsierra/bike_sharing_demand)
 - [Churn Prediction](https://github.com/Jvsierra/churn_prediction)
+- [E-mail Classification Agent](https://github.com/Jvsierra/email-classification-agent)
 
 ## 📫 Contact
 
