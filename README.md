@@ -95,6 +95,7 @@ My work covers the entire data lifecycle, from solution discovery to model deplo
 **Machine Learning**
 
 - Scikit-Learn
+- LangChain
 - LightGBM
 - XGBoost
 - CatBoost
