@@ -9,6 +9,7 @@ Atuo desde a descoberta de solução até a implantação de modelos em produç�
 ## 🚀 Áreas de atuação
 
 - 📈 Forecasting (Previsão de Demanda)
+- 🦾 IA Generativa e Agêntica
 - 🤖 Machine Learning
 - 📊 Ciência de Dados
 - ⚙️ Engenharia de Dados
@@ -27,6 +28,7 @@ Atuo desde a descoberta de solução até a implantação de modelos em produç�
 **Machine Learning**
 
 - Scikit-Learn
+- LangChain
 - LightGBM
 - XGBoost
 - CatBoost
@@ -43,6 +45,7 @@ Atuo desde a descoberta de solução até a implantação de modelos em produç�
 **Cloud & MLOps**
 
 - Azure
+- AWS
 - MLflow
 - Git
 - Docker
@@ -73,6 +76,7 @@ My work covers the entire data lifecycle, from solution discovery to model deplo
 ## 🚀 Areas of Expertise
 
 - 📈 Demand Forecasting
+- 🦾 Gen AI & Agentic AI
 - 🤖 Machine Learning
 - 📊 Data Science
 - ⚙️ Data Engineering
