@@ -2,7 +2,7 @@
 
 🇧🇷 **Português**
 
-Sou **Cientista de Dados Sênior** com experiência no desenvolvimento de soluções de Machine Learning de ponta a ponta, especialmente em previsão de demanda, otimização de processos e suporte à tomada de decisão baseada em dados.
+Sou **Cientista de Dados Sênior** com experiência no desenvolvimento de soluções de Machine Learning de ponta a ponta, especialmente em agentes de IA generativa, previsão de demanda, otimização de processos e suporte à tomada de decisão baseada em dados.
 
 Atuo desde a descoberta de solução até a implantação de modelos em produção, sempre buscando unir excelência técnica com impacto para o negócio.
 
@@ -69,7 +69,7 @@ Você encontrará aqui projetos relacionados a:
 
 🇺🇸 **English**
 
-I'm a **Senior Data Scientist** with experience building end-to-end Machine Learning solutions, mainly focused on pricing, demand forecasting, process optimization and data-driven decision making.
+I'm a **Senior Data Scientist** with experience building end-to-end Machine Learning solutions, mainly focused on Gen AI, pricing, demand forecasting, process optimization and data-driven decision making.
 
 My work covers the entire data lifecycle, from solution discovery to model deployment and production monitoring.
 
@@ -112,6 +112,7 @@ My work covers the entire data lifecycle, from solution discovery to model deplo
 **Cloud & MLOps**
 
 - Azure
+- AWS
 - MLflow
 - Git
 - Docker
